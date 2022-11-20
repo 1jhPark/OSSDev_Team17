@@ -9,6 +9,7 @@ public class FruitScore : MonoBehaviour
     {
         ScoringSystem.score += FruitEx; //보너스 점수
         //FruitGenerate.Eat += 1;
+        GetComponent<AudioSource>().Play();
         Destroy(gameObject); //획득 시 파괴
     }
     // Start is called before the first frame update

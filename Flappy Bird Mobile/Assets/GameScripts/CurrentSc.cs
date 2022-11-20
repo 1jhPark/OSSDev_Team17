@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+//점수 기록
 public class CurrentSc : MonoBehaviour
 {
     // Start is called before the first frame update

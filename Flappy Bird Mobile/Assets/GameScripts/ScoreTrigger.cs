@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//기둥 점수 처리 관련
 public class ScoreTrigger : MonoBehaviour
 {
     public static int ScoringEx = 1; 

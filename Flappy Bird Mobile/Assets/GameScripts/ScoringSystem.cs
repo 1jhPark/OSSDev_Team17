@@ -7,11 +7,13 @@ public class ScoringSystem : MonoBehaviour
 {
     public static int score = 0;
     public static int bestscore = 0;
+    public static int bestP = 0;
     // Start is called before the first frame update
     void Start()
     {
         GetComponent<AudioSource>().Play();
         score = 0;
+        bestP = 0;
     }
 
     // Update is called once per frame

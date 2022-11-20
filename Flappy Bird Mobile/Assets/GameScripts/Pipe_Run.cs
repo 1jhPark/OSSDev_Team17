@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//파이프 작동에 관한 코드
 public class Pipe_Run : MonoBehaviour
 {
     public float PipeSp; //파이프 이동 속, 높은 값 부여 시 난이도 상승

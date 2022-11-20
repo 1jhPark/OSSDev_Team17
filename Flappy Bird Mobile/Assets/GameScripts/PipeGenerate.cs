@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//파이프 생성기 
 public class PipeGenerate : MonoBehaviour
 {
     //public float objCtrl;

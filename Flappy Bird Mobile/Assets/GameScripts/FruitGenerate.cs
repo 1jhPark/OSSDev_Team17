@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//과일 생성기
 public class FruitGenerate : MonoBehaviour
 {
     //public float objCtrl;

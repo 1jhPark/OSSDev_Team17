@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//과일 작동 관련
 public class FruitRun : MonoBehaviour
 {
     public float FruitSp;
