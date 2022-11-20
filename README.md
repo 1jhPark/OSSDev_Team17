@@ -10,6 +10,7 @@ Fruit Flappy Bird는 원 터치 모바일 게임입니다. 플레이어는 새�
 
 # Download Link
 https://drive.google.com/file/d/1aIkXMBNcJ5cd3xKnkzqEvvXAsdSuQe8c/view?usp=share_link
+위의 다운로드 링크에서 apk 파일을 다운받아 모바일 환경에서 플레이 할 수 있습니다!
 
 # Asset License
 문서 참조
