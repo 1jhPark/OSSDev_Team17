@@ -1,0 +1,17 @@
+game assets: samuelcust
+https://github.com/samuelcust/flappy-bird
+
+game asset(fruit): ssugmi
+https://ssugmi.itch.io/sliced-fruits
+
+game bgm: sakura girl
+https://soundcloud.com/sakuragirl_official
+Jazzy Night - Sakura Girl https://soundcloud.com/sakuragirl_official
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0
+Free Download / Stream: https://bit.ly/3Jq2wKj
+Music promoted by Audio Library https://youtu.be/1trtkQdZoyI
+
+Pancake - Sakura Girl https://soundcloud.com/sakuragirl_official
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0
+Free Download / Stream: https://bit.ly/3HJqzCD
+Music promoted by Audio Library https://youtu.be/hs_9d4EWLI8
