@@ -8,7 +8,6 @@ public class BestSc : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        GetComponent<Text>().text = ScoringSystem.bestscore.ToString(); //최고점수 넘겨받음
+        GetComponent<Text>().text = ScoringSystem.bestScore.ToString(); //최고점수 넘겨받음
     }
-
 }

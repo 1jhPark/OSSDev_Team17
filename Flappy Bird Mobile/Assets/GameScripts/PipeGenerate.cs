@@ -9,6 +9,7 @@ public class PipeGenerate : MonoBehaviour
     public float TimeCount, PipeCount, DestroyCount;
     public float highestPP, lowestPP;
     public GameObject Pipe;
+
     // Start is called before the first frame update
     void Start()
     {

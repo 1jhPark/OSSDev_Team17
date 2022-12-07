@@ -6,8 +6,9 @@ using UnityEngine.UI;
 public class ScoringSystem : MonoBehaviour
 {
     public static int score = 0;
-    public static int bestscore = 0;
+    public static int bestScore = 0;
     public static int bestP = 0;
+
     // Start is called before the first frame update
     void Start()
     {

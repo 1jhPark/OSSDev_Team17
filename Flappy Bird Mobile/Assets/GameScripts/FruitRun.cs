@@ -6,6 +6,7 @@ public class FruitRun : MonoBehaviour
 {
     public float FruitSp;
     public GameObject Fruit;
+
     // Start is called before the first frame update
     void Start()
     {

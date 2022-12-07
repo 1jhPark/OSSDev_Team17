@@ -5,11 +5,13 @@ using UnityEngine;
 public class ScoreTrigger : MonoBehaviour
 {
     public static int ScoringEx = 1; 
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         ScoringSystem.score+=ScoringEx; //기둥 통과 시 점수
         
     }
+
     // Start is called before the first frame update
     void Start()
     {
