@@ -5,6 +5,7 @@ using UnityEngine;
 public class Pipe_Run : MonoBehaviour
 {
     public float PipeSp; //파이프 이동 속, 높은 값 부여 시 난이도 상승
+
     // Start is called before the first frame update
     void Start()
     {
